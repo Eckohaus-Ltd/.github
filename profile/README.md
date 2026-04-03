@@ -1,26 +1,66 @@
-# ☨ ECKOHAUS UK // REGIONAL ARCHIVAL NODE ☨
+# ☨ ECKOHAUS UK — MAGENTO DEVELOPMENT NODE ☨
 
-> **JUPITER-IV-TERMINAL • UK DOMICILE**
-> *Creative data sanitization and federal IP framework management.*
-
----
-
-### ◧ REGIONAL DIRECTIVE: UK/01
-Eckohaus UK is domiciled within the United Kingdom, operating as a localized administrative bridge for the creative sector. Our function is the secure management of creative assets, technical auditing of Magento-based infrastructures, and the archival preservation of digital media under UK regulatory standards.
-
-### ◧ RELATIONAL DEPLOYMENTS
-The UK node is responsible for the orchestration and maintenance of regional storefronts, ensuring that all localized routing, SMTP golden rules, and frontend terminal styling are synchronized with the global enterprise.
-
-* **[ SECURE INGRESS ]**: UK-based production environments for creative portfolios.
-* **[ ARCHIVAL BRIDGE ]**: Sanitizing raw data for federal intellectual property registration.
-* **[ SYSTEM SHADOW ]**: Testing and deployment of regional LESS-engine extensions.
+> Magento-focused development, integration, and technical audit support.
 
 ---
 
-### ◧ INTERFACE / CONTACT
-For UK-domiciled consultations, technical project audits, or archival data management:
+## ◧ OVERVIEW
 
-**[ VISIT BOUTIQUE (UK) ](https://ded-beat-boutique.com)** | **[ SYSTEM BLOG ](https://eckohaus.blog)** | **[ ADMIN ENQUIRY ](mailto:admin@ded-beat-boutique.com)**
+This GitHub organisation contains **development frameworks, modules, and technical documentation** supporting Magento-based commerce systems.
+
+All repositories reflect active or archived work derived from:
+
+→ https://ded-beat-boutique.com
 
 ---
-*† REGIONAL FUNCTION: 44 // DOMICILED WITHIN UNITED KINGDOM †*
+
+## ◧ CORE CAPABILITIES
+
+- Magento 2 module development  
+- Payment gateway integrations (e.g. Cardnet, Adobe Commerce APIs)  
+- Admin panel extensions & backend tooling  
+- Frontend theming (LESS/CSS, UI components)  
+- Store infrastructure auditing & performance optimisation  
+
+---
+
+## ◧ REPOSITORY STRUCTURE
+
+Each repository represents a **self-contained development unit**, including:
+
+- Module source code  
+- Integration logic (APIs, payment systems, third-party services)  
+- Configuration and deployment notes  
+- Technical documentation  
+
+---
+
+## ◧ DEVELOPMENT SCOPE
+
+Focus areas include:
+
+- Custom Magento module builds  
+- Commerce API integrations  
+- Payment processing systems  
+- Storefront customisation and optimisation  
+- Debugging and technical audits of existing Magento installations  
+
+---
+
+## ◧ ENTRY POINT
+
+Client services, builds, and enquiries are handled via:
+
+→ https://ded-beat-boutique.com  
+
+---
+
+## ◧ CONTACT
+
+Technical enquiries and project requests:
+
+→ admin@ded-beat-boutique.com  
+
+---
+
+*† UK NODE // MAGENTO SYSTEMS • ARCHIVE LINKED †*
